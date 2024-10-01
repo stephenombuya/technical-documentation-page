@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100%;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+#main-doc {
+    margin-left: 200px;
+    padding: 20px;
+}
+
+.main-section {
+    margin-bottom: 20px;
+}
+
+.main-section header {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 768px) {
+    #navbar {
+        display: none;
+    }
+}
