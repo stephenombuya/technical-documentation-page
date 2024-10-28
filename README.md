@@ -7,7 +7,7 @@ This project provides a well-structured and informative technical documentation 
 1. **Clone the repository:**
 
    ```
-   git clone [https://github.com/stephenombuya/technical-documentation-page](https://github.com/stephenombuya/technical-documentation-page)
+   git clone https://github.com/stephenombuya/technical-documentation-page
    ```
 
 2. **Open the HTML file:**
