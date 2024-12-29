@@ -45,5 +45,5 @@ Before making any changes, please create a pull request to discuss your contribu
 
 ### License
 
-This project is licensed under the GNU License. Refer to the LICENSE file for details.
+This project is licensed under the GNU License. Refer to the `LICENSE` file for details.
 
